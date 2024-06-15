@@ -8,20 +8,74 @@ Joined 100-days-of-code to brush up on rusty bits and plan for the future.
 
 **Thoughts:** This will be like riding a bike I'm sure. For now I need a quick refresh on Markdown, VSCode while l I fork this Repo  
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
 
 
 ### Day 1: 14th June 2024 - Friday
 
-**Today's Progress**: Will identify which projects to complete first before starting anything further
+**Today's Progress**: Will identify which projects to complete first before starting anything further ones
 
-
-________________________________________________________
-
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** After reviewing and the fact that it has been a while I will not revisit old unfinished repos. Time will be better spent revisiting incomplete courses and starting new repos from scratch instead
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+
+### Day 2: 15th June 2024 - Saturday
+
+**Today's Progress**: 
+
+**Thoughts** My longer term coding/development goals have changed since my Front End Dev Bootcamp so I'll spend the weekend setting a plan of action
+
+**Link(s) to work**
+
+
+
+### Day 3:
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+
+### Day 4:
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+
+### Day :
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
