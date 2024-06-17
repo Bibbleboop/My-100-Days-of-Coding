@@ -44,7 +44,7 @@
 
 **Today's Progress**: Ironed out yesterdays issues with React Server Side Rendering. Set up index.js with logo and crads using api data
 
-**Thoughts** After several attempts at exploring errors its satisfying when the app page finally loads 
+**Thoughts** After several attempts at exploring errors its satisfying when the app page finally loads. I h ave noticed errors with the last few days commits  - need to investigate further 
 
 **Link(s) to work**
 
