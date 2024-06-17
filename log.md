@@ -42,7 +42,7 @@
 
 ### Day 4: 17th June 2024 - Monday
 
-**Today's Progress**: Ironed out yesterdays issues with React Server Side Rendering. Set up index.js with logo and crads using api data
+**Today's Progress**: Ironed out yesterdays issues with React Server Side Rendering. Set up index.js with logo and cards using Api added data for props
 
 **Thoughts** After several attempts at exploring errors its satisfying when the app page finally loads 
 
