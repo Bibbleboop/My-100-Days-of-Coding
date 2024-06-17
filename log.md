@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+ # 100 Days Of Code - Log
 
 ### Day 0: 13th June 2024
 
@@ -42,9 +42,9 @@
 
 ### Day 4: 17th June 2024 - Monday
 
-**Today's Progress**:
+**Today's Progress**: Ironed out yesterdays issues with React Server Side Rendering. Set up index.js with logo and crads using api data
 
-**Thoughts** 
+**Thoughts** After several attempts at exploring errors its satisfying when the app page finally loads 
 
 **Link(s) to work**
 
