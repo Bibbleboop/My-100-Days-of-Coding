@@ -55,7 +55,7 @@
 
 **Today's Progress**: Resolved commit issues by cloning the 100 day Repo and archiving the forked version that doesn't show my commits
 
-**Thoughts** I need to totally refresh certain aspects of github repos so I don;t make that mistake again
+**Thoughts** I need to totally refresh certain aspects of github repos so I don;t make that mistake again. Need to refresh folder and file updating to personalise this repo
 
 **Link(s) to work**
 
