@@ -1,4 +1,5 @@
- # 100 Days Of Code - Log
+ # 100 Days Of Code - My Log
+ https://www.100daysofcode.com/
 
 ### Day 0: 13th June 2024
 
@@ -50,11 +51,11 @@
 
 
 
-### Day :
+### Day 4: 18th June 2024 - Tuesday
 
-**Today's Progress**:
+**Today's Progress**: Resolved commit issues by cloning the 100 day Repo and archiving the forked version that doesn't show my commits
 
-**Thoughts** 
+**Thoughts** I need to totally refresh certain aspects of github repos so I don;t make that mistake again
 
 **Link(s) to work**
 
