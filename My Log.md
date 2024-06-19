@@ -53,7 +53,7 @@
 
 ### Day 4: 18th June 2024 - Tuesday
 
-**Today's Progress**: Resolved commit issues by cloning the 100 day Repo and archiving the incorrect forked version that doesn't show my commits. Using Redux for state management ..........
+**Today's Progress**: Resolved commit issues by cloning the 100 day Repo and archiving the incorrect forked version that doesn't show my commits. Working through React SSR tutorial using Redux for state management ..........
 
 **Thoughts** I need to totally refresh certain aspects of github repos so I don;t make that mistake again. Need to refresh folder and file updating to personalise this repo
 
@@ -61,17 +61,17 @@
 
 
 
-### Day :
+### Day : 19th June 2024 - Wednesday
 
-**Today's Progress**:
+**Today's Progress**: Will be concentrating on Solidity for the next week 
 
-**Thoughts** 
+**Thoughts** No actual coding today as only had time to review articles. I need to understand the terminology so will need to review few vids I have for solidity
 
 **Link(s) to work**
 
 
 
-### Day :
+### Day : 20th June 2024 - Thursday
 
 **Today's Progress**:
 
