@@ -43,9 +43,9 @@
 
 ### Day 4: 17th June 2024 - Monday
 
-**Today's Progress**: Resolved previous React Server Side Rendering issues. Set up index.js with logo, module css and card modules using api data for props
+**Today's Progress**: Resolved previous React Server Side Rendering issues. Set up index.js importing module styles and images, module css and card modules (functional stateless Card Componennts) mapping imported api data for props, transforming components from stateless to class
 
-**Thoughts** After several attempts at exploring errors its satisfying when the app page finally loads. I h ave noticed errors with the last few days commits  - need to investigate further 
+**Thoughts** Will use https//ww.github.co/vercel/next.js/tree/canaryexamples for examples to fetch data from external API. ******** After several attempts at exploring errors its satisfying when the app page finally loads. I have noticed errors with the last few days commits  - need to investigate further
 
 **Link(s) to work**
 
@@ -53,7 +53,7 @@
 
 ### Day 4: 18th June 2024 - Tuesday
 
-**Today's Progress**: Resolved commit issues by cloning the 100 day Repo and archiving the incorrect forked version that doesn't show my commits
+**Today's Progress**: Resolved commit issues by cloning the 100 day Repo and archiving the incorrect forked version that doesn't show my commits. Using Redux for state management ..........
 
 **Thoughts** I need to totally refresh certain aspects of github repos so I don;t make that mistake again. Need to refresh folder and file updating to personalise this repo
 
