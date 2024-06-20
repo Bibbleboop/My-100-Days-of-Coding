@@ -63,7 +63,7 @@
 
 ### Day 6: 19th June 2024 - Wednesday
 
-**Today's Progress**: Will be concentrating on Solidity for the next week 
+**Today's Progress**: Will be completing the SSR exercise then concentrating on Solidity for the next week 
 
 **Thoughts** No actual coding today as only had time to review articles. I need to understand the terminology so will need to review few vids I have for solidity
 
