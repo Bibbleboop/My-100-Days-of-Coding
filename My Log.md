@@ -73,8 +73,15 @@
 
 ### Day : 20th June 2024 - Thursday
 
-**Today's Progress**:
+**Today's Progress**: Adding Redux store and setup by installing dependencies for Redux (npm i next-redux-wrapper react-redux redux). Creating store by adding states to variables and functions. Creatng a wrapper and updating index.js to pass 'store' in initial props ( static async getInitialProps ({store})). Return store.dispatch from the initial cards. (return store.dispatch(initialCards());
+import { initStore } from '../store'; (at top) and pass it at bottom of index.js (export default initStore.withRedux(Index);)
 
-**Thoughts** 
+Adding Redux Actions to the Redux Implementation. Actions are functions.  
+Adding Redux Reducers in store.js. 
+To test can use npm run build then npm start  - but the faster way is npm run dev
+*** Test unsucessful with apparent error due to missing file ssr\.next\trace'] {
+  errno: -4048, ***
+
+**Thoughts** Although the Redux exercise was unsucessful, it was very useful session to help with terminology & structure
 
 **Link(s) to work**
