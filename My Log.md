@@ -86,7 +86,7 @@ To test can use npm run build then npm start  - but the faster way is npm run de
 
 ### Day 8: 21st June 2024  - Friday
 
-**Today's Progress**: Continuing with Learning path for blockchain to complete the certificate  - todays exercise is Blockchain: Learning Solidity 2018
+**Today's Progress**: Continuing with Learning path for blockchain to complete the certificate  - todays exercise is Blockchain: Learning Solidity 2018. Solidity Syntax, TYpes, Units, Variables (inc Global), Functions, Operators, Conditionals. 
 
 **Thoughts**:
 
