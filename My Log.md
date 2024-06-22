@@ -43,7 +43,7 @@
 
 ### Day 4: 17th June 2024 - Monday
 
-**Today's Progress**: Resolved previous React Server Side Rendering issues. Set up index.js importing module styles and images, module css and card modules (functional stateless Card Componennts) mapping imported api data for props, transforming components from stateless to class
+**Today's Progress**: Resolved previous React Server Side Rendering issues. Set up index.js, importing module styles and images, module css and card modules (functional stateless Card Componennts) mapping imported api data for props, transforming components from stateless to class
 
 **Thoughts** Will use https//ww.github.co/vercel/next.js/tree/canaryexamples for examples to fetch data from external API. ******** After several attempts at exploring errors its satisfying when the app page finally loads. I have noticed errors with the last few days commits  - need to investigate further
 
