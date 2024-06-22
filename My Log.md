@@ -55,7 +55,7 @@
 
 **Today's Progress**: Resolved commit issues by cloning the 100 day Repo and archiving the incorrect forked version that doesn't show my commits. Working through React SSR tutorial using Redux for state management ..........
 
-**Thoughts** I need to totally refresh certain aspects of github repos so I don;t make that mistake again. Need to refresh folder and file updating to personalise this repo
+**Thoughts** I need to totally refresh certain aspects of github repos so I don't make that mistake again. Need to refresh folder and file updating to personalise this repo
 
 **Link(s) to work**
 
@@ -73,7 +73,7 @@
 
 ### Day 7: 20th June 2024 - Thursday
 
-**Today's Progress**: Adding Redux store and setup by installing dependencies for Redux (npm i next-redux-wrapper react-redux redux). Creating store by adding states to variables and functions. Creatng a wrapper and updating index.js to pass 'store' in initial props ( static async getInitialProps ({store})). Return store.dispatch from the initial cards. (return store.dispatch(initialCards());
+**Today's Progress**: Adding Redux store and setup by installing dependencies for Redux (npm i next-redux-wrapper react-redux redux). Creating store by adding states to variables and functions. Creating a wrapper and updating index.js to pass 'store' in initial props ( static async getInitialProps ({store})). Return store.dispatch from the initial cards. (return store.dispatch(initialCards());
 import { initStore } from '../store'; (at top) and pass it at bottom of index.js (export default initStore.withRedux(Index);)
 Adding Redux Actions to the Redux Implementation. Actions are functions.  Adding Redux Reducers in store.js. 
 To test can use npm run build then npm start  - but the faster way is npm run dev - *** Test unsucessful with apparent error due to missing file ssr\.next\trace']   errno: -4048, ***
@@ -86,26 +86,26 @@ To test can use npm run build then npm start  - but the faster way is npm run de
 
 ### Day 8: 21st June 2024  - Friday
 
-**Today's Progress**: Continuing with Learning path for blockchain to complete the certificate  - todays exercise is Blockchain: Learning Solidity 2018. Solidity Syntax, TYpes, Units, Variables (inc Global), Functions, Operators, Conditionals. 
+**Today's Progress**: Continuing with Learning path for blockchain to complete the certificate  - todays exercise is Blockchain: Learning Solidity 2018. Solidity Syntax, Types, Units, Variables (inc Global), Functions, Operators, Conditionals. 
 
-**Thoughts**: Being relatively new to coding; Solidity vids previosly didn't click with me, but I think that it is beneficial for me, and suits my learning style, to see multiple examples and formats. The daily format of little and oftuen is really helping me to not only keep focus but to realise that I am making some progress
+**Thoughts**: Being relatively new to coding; Solidity vids previously didn't click with me, but I think that it is beneficial for me, and suits my learning style, to see multiple examples and formats. The daily format of little and often is really helping me to not only keep focus but to realise that I am making some progress
 
 
 ### Day 9: 22nd June 2024  - Saturday
 
-**Today's Progress**: Continuation of Solidiy Smart Contracts
+**Today's Progress**: Continuation of Solidity Smart Contracts
 
-**Thoughts**: Having previously completed an exercise of a Solidity First Smart Contract, I now have a bette understanding of the variables, modifiers, and functions. 
+**Thoughts**: Having previously completed an exercise of a Solidity First Smart Contract, I now have a better understanding of the variables, modifiers, and functions. 
 
 
 
 ### Day 10: 23rd June 2024  - Sunday 
 
-**Today's Progress**: 
+**Today's Progress**: Continuation of Solidity Smart Contracts
 
-**Thoughts**:
+**Thoughts**: Solidity syntax basics 
 
-
+r
 
 ### Day 11: 24th June 2024  - Monday 
 
