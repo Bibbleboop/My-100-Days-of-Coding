@@ -88,15 +88,14 @@ To test can use npm run build then npm start  - but the faster way is npm run de
 
 **Today's Progress**: Continuing with Learning path for blockchain to complete the certificate  - todays exercise is Blockchain: Learning Solidity 2018. Solidity Syntax, TYpes, Units, Variables (inc Global), Functions, Operators, Conditionals. 
 
-**Thoughts**:
-
+**Thoughts**: Being relatively new to coding; Solidity vids previosly didn't click with me, but I think that it is beneficial for me, and suits my learning style, to see multiple examples and formats. The daily format of little and oftuen is really helping me to not only keep focus but to realise that I am making some progress
 
 
 ### Day 9: 22nd June 2024  - Saturday
 
-**Today's Progress**: 
+**Today's Progress**: Continuation of Solidiy Smart Contracts
 
-**Thoughts**:
+**Thoughts**: Having previously completed an exercise of a Solidity First Smart Contract, I now have a bette understanding of the variables, modifiers, and functions. 
 
 
 
