@@ -103,7 +103,7 @@ To test can use npm run build then npm start  - but the faster way is npm run de
 
 **Today's Progress**: Continuation of Solidity Smart Contracts
 
-**Thoughts**: Solidity syntax basics 
+**Thoughts**: Solidity syntax basics to set up solidity file (.sol) Import Solidity and filenames
 
 r
 
