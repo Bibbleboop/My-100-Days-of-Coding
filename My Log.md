@@ -105,13 +105,13 @@ To test can use npm run build then npm start  - but the faster way is npm run de
 
 **Thoughts**: Solidity syntax basics to set up solidity file (.sol) Import Solidity and filenames
 
-r
+
 
 ### Day 11: 24th June 2024  - Monday 
 
-**Today's Progress**: 
+**Today's Progress**: Continuing with Learning Solidity vids and exercises
 
-**Thoughts**:
+**Thoughts**: Will continue to complete the vids exercises using Remix then .... go back to the Docker instructions and complete it again .....
 
 
 
