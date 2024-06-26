@@ -78,7 +78,7 @@ import { initStore } from '../store'; (at top) and pass it at bottom of index.js
 Adding Redux Actions to the Redux Implementation. Actions are functions.  Adding Redux Reducers in store.js. 
 To test can use npm run build then npm start  - but the faster way is npm run dev - *** Test unsucessful with apparent error due to missing file ssr\.next\trace']   errno: -4048, ***
 
-**Thoughts** Although this Redux exercise was unsucessful, it was very useful session to help with reminding me of terminology & structure
+**Thoughts** Although this Redux exercise was unsuccessful, it was very useful session to help with reminding me of terminology & structure
 
 **Link(s) to work**
 
@@ -119,7 +119,7 @@ To test can use npm run build then npm start  - but the faster way is npm run de
 
 **Today's Progress**: Continuing with Learning Solidity vids and exercises
 
-**Thoughts**: Working through several exercises to be confident before ...
+**Thoughts**: Working through several exercises to be confident before moving on
 
 
 
