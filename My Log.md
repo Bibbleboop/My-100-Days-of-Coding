@@ -125,9 +125,10 @@ To test can use npm run build then npm start  - but the faster way is npm run de
 
 ### Day 13: 26th June 2024 - Wednesday 
 
-**Today's Progress**: 
+**Today's Progress**: Continuing with Learning Solidity vids and exercises
 
-**Thoughts**:
+**Thoughts**: Continue working through several exercises 
+
 
 
 
