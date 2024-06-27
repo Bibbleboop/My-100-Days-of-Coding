@@ -134,7 +134,7 @@ To test can use npm run build then npm start  - but the faster way is npm run de
 Tutorials 
 ### Day 14: 27th June 2024  - Thursday 
 
-**Today's Progress**: Working through Remix Tutorials including interface, 
+**Today's Progress**: Working through Remix Tutorials including interface, Remix Project to understand Remix IDE Plug-Ins.
 
 **Thoughts**:
 
