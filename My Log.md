@@ -131,10 +131,10 @@ To test can use npm run build then npm start  - but the faster way is npm run de
 
 
 
-
+Tutorials 
 ### Day 14: 27th June 2024  - Thursday 
 
-**Today's Progress**: 
+**Today's Progress**: Working through Remix Tutorials 
 
 **Thoughts**:
 
