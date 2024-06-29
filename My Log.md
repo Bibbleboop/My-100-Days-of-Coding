@@ -150,7 +150,7 @@ Tutorials
 
 ### Day 16: 29th June 2024  - Saturday 
 
-**Today's Progress**: 
+**Today's Progress**: Working through LEARNETH staring at beginner level for total back to basics knowledge. Including Loading, Compiling & Deploying: Remix's interface and concepts use in Ethereum. 
 
 **Thoughts**:
 
