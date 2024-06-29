@@ -142,7 +142,7 @@ Tutorials
 
 ### Day 15: 28th June 2024 **  - Friday 
 
-**Today's Progress**: 
+**Today's Progress**: Continuing with Remix, reading docs to better understand Core Modules including deployment and forking
 
 **Thoughts**:
 
