@@ -134,13 +134,13 @@ To test can use npm run build then npm start  - but the faster way is npm run de
 Tutorials 
 ### Day 14: 27th June 2024  - Thursday 
 
-**Today's Progress**: Working through Remix Tutorials including interface, Remix Project to understand Remix IDE Plug-Ins and visual debugger
+**Today's Progress**: Working through Remix Tutorials including interface, Remix Project to understand Remix IDE Plug-Ins and visual debugger..
 
-**Thoughts**:
+**Thoughts**: There is a lotof information to consume here so I'll note this section to return to until fully proficient ... **** REMIX INFO - Learneth Tutorial Platform Integrated into Remix - includes quizzes for testing, ran by Solidity Unit Tests ****
 
 
 
-### Day 15: 28th June 2024 **  - Friday 
+### Day 15: 28th June 2024  - Friday 
 
 **Today's Progress**: Continuing with Remix, reading docs to better understand Core Modules including deployment and forking
 
