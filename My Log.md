@@ -156,11 +156,11 @@ Tutorials
 
 
 
-### Day 17: 30th June 2024  - Sunday 
+### Day 17: 30th June 2024  - Sunday (Happy Birthday to Me)
 
-**Today's Progress**: Solidity Copilot 
+**Today's Progress**: Attempting to deploy and run transactions in Ephemery & Sepolia Testnets in Remix Tutorials
 
-**Thoughts**:
+**Thoughts**: Ran into issues at several stages, including attempting to add Sepolia PoW Faucet as it now requires a gitcoin passport. I did begin to set up a gitcoin passport (https://passport.gitcoin.co/#), sucessful in some areas buut not in others - I will return to this when I have more time as I didn't understand all of it ...
 
 
 
