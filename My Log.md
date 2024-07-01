@@ -164,7 +164,15 @@ Tutorials
 
 
 
-### Day 18: date month year  - day 
+### Day 18: 1 July 2024  - Monday 
+
+**Today's Progress**: Trying to continue solidity exercises already started. Added to my daily tasks by starting thirdwebs Onchain Olympics, where a different NFT is minted everyday for 30 days, with docs and chain info for a differnt chain each day. 
+
+**Thoughts**: My daily plans seem to get derailed and I end up not finishing anything, whilst starting something else. I will need to find a way to better track this and enable me to focus on plans 
+
+
+
+### Day 19: 2 July 2024  - Tuesday
 
 **Today's Progress**: 
 
@@ -172,7 +180,7 @@ Tutorials
 
 
 
-### Day 19: date month year  - day 
+### Day 20: 3 July 2024  - Wednesday 
 
 **Today's Progress**: 
 
@@ -180,7 +188,256 @@ Tutorials
 
 
 
-### Day 20: date month year  - day 
+### Day 21: 4 July 2024  - Thursday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 22: 5 July 2024  - Friday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 23: 6 July 2024  - Saturday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 24: 7 July 2024  - Sunday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 25: 8 July 2024  - Monday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 26: 9 July 2024  - Tuesday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 27: 10 July 2024  - Wednesday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 28: 11 July 2024  - Thursday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 29: 12 July 2024  - Friday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 30: 13 July 2024  - Saturday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 31: 14 July 2024  - Sunday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 32: 15 July 2024  - Monday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 33: 16 July 2024  - Tuesday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 34: 17 July 2024  - Wednesday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 35: 18 July 2024  - Thursday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+
+### Day 36: 19 July 2024  - Friday
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 37: 20 July 2024  - Saturday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 38: 21 July 2024  - Sunday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 39: 22 July 2024  - Monday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 40: 23 July 2024  - Tuesday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 41: 24 July 2024  - Wednesday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 42: 25 July 2024  - Thursday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 43: 26 July 2024  - Friday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 44: 27 July 2024  - Saturday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 45: 28 July 2024  - Sunday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 46: 29 July 2024  - Monday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 47: 30 July 2024  - Tuesday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 48: 31 July 2024  - Wednesday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 49: August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 50: August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 51: August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 52: August 2024  - day 
 
 **Today's Progress**: 
 
