@@ -168,7 +168,9 @@ Tutorials
 
 **Today's Progress**: Trying to continue solidity exercises already started. Added to my daily tasks by starting thirdwebs Onchain Olympics, where a different NFT is minted everyday for 30 days, with docs and chain info for a differnt chain each day. 
 
-**Thoughts**: My daily plans seem to get derailed and I end up not finishing anything, whilst starting something else. I will need to find a way to better track this and enable me to focus on plans 
+#stellarchallenge - Stellar Challenge Starts 10th July  - This needs Scheduling in prior to start to keep upto date 
+
+**Thoughts**: My daily plans seem to get derailed by side quests and I end up not finishing anything, whilst starting something else. I will need to find a way to better track this and enable me to focus on plans 
 
 
 
@@ -238,7 +240,7 @@ Tutorials
 
 ### Day 27: 10 July 2024  - Wednesday 
 
-**Today's Progress**: 
+**Today's Progress**: about #stellarchallenge - Stellar Challenge Starts 10th July  - This needs Scheduling in prior to start to keep upto date 
 
 **Thoughts**:
 
