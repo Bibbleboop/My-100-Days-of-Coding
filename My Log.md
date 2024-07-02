@@ -170,15 +170,15 @@ Tutorials
 
 #stellarchallenge - Stellar Challenge Starts 10th July  - This needs Scheduling in prior to start to keep upto date 
 
-**Thoughts**: My daily plans seem to get derailed by side quests and I end up not finishing anything, whilst starting something else. I will need to find a way to better track this and enable me to focus on plans 
+**uabout #stellarchallenge - Stellar Challenge Starts 10th July  - This needs Scheduling in prior to start to keep upto date  ISSThoughts**: My daily plans seem to get derailed by side quests and I end up not finishing anything, whilst starting something else. I will need to find a way to better track this and enable me to focus on plans 
 
 
 
 ### Day 19: 2 July 2024  - Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: Set up Issues to attempt to keep track of everything 
 
-**Thoughts**:
+**Thoughts**: This will be ongoing and needs regular review to ensure don't get too sidetracked by other side quests. Hoprfully this will help me keep focused. 
 
 
 
