@@ -176,17 +176,17 @@ Tutorials
 
 ### Day 19: 2 July 2024  - Tuesday
 
-**Today's Progress**: Set up Issues to attempt to keep track of everything 
+**Today's Progress**: Set up Issues to attempt to keep track of everything  - and milestomes to set timeframes. 
 
-**Thoughts**: This will be ongoing and needs regular review to ensure don't get too sidetracked by other side quests. Hoprfully this will help me keep focused. 
+**Thoughts**: This will be ongoing and needs regular review to ensure don't get too sidetracked by other side quests. Hopefully this will help me keep focused. 
 
 
 
 ### Day 20: 3 July 2024  - Wednesday 
 
-**Today's Progress**: 
+**Today's Progress**: Focus to complete Solidity Intros
 
-**Thoughts**:
+**Thoughts**: I do have some vscode that I can match to the exercises to complete the certificates
 
 
 
