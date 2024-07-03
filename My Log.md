@@ -170,7 +170,7 @@ Tutorials
 
 #stellarchallenge - Stellar Challenge Starts 10th July  - This needs Scheduling in prior to start to keep upto date 
 
-**uabout #stellarchallenge - Stellar Challenge Starts 10th July  - This needs Scheduling in prior to start to keep upto date  ISSThoughts**: My daily plans seem to get derailed by side quests and I end up not finishing anything, whilst starting something else. I will need to find a way to better track this and enable me to focus on plans 
+**about #stellarchallenge - Stellar Challenge Starts 10th July  - This needs Scheduling in prior to start to keep upto date  ISSThoughts**: My daily plans seem to get derailed by side quests and I end up not finishing anything, whilst starting something else. I will need to find a way to better track this and enable me to focus on plans 
 
 
 
@@ -192,9 +192,9 @@ Tutorials
 
 ### Day 21: 4 July 2024  - Thursday 
 
-**Today's Progress**: 
+**Today's Progress**: Refreshing with article on React Compiler and added issue for it. Added Lables to issues to help with my daily prioritsation as I want to get coding as soon as I can but I keep getting pulled back to where gaps in my knowledge are. Stellar Challenge starts 10th July. 
 
-**Thoughts**:
+**Thoughts**: I will make priority for reading on 3 different topics for next 2 weeks and this will help me feel like I am making some progress instead of going on a million tangents every day
 
 
 
