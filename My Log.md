@@ -186,7 +186,7 @@ Tutorials
 
 **Today's Progress**: Focus to complete Solidity Intros
 
-**Thoughts**: I do have some vscode that I can match to the exercises to complete the certificates
+**Thoughts**: I do have some vscode that I can match to the exercises to complete the certificates - Totally side tracked today with vs code and copilot, solidity scan, solidity tokens on solscan. Managed to not spend more than an hou on each and ended up back at React Compiler. 
 
 
 
