@@ -200,7 +200,8 @@ Tutorials
 
 ### Day 22: 5 July 2024  - Friday 
 
-**Today's Progress**: 
+**Today's Progress**: In additional to daily reading (above), over the weekend I will spend the bulk of time on the folowing : Eat The Blocks  Build a SINGLE Blockchain app for ALL smart contracts -  https://www.youtube.com/live/AznyJDTby1g
+
 
 **Thoughts**:
 
