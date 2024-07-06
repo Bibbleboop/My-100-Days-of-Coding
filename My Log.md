@@ -209,7 +209,7 @@ Tutorials
 
 ### Day 23: 6 July 2024  - Saturday 
 
-**Today's Progress**: 
+**Today's Progress**: Started Quests in Stellar Challenge in prep for challenge starting on 10th. 
 
 **Thoughts**:
 
