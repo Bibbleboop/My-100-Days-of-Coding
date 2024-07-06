@@ -217,7 +217,7 @@ Tutorials
 
 ### Day 24: 7 July 2024  - Sunday 
 
-**Today's Progress**: 
+**Today's Progress**: https://quest.stellar.org/learn/series/1/quest/1
 
 **Thoughts**:
 
