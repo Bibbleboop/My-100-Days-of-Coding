@@ -219,12 +219,12 @@ Tutorials
 
 **Today's Progress**: https://quest.stellar.org/learn/series/1/quest/1
 
-**Thoughts**: The trial and error aspect of this is enjoyable, so although I have had a failed attempt at Quest 1 Payment Options its not as dry as other approaches undertaken previously so retaining information should be easier.
+**Thoughts**: The trial and error aspect of this is enjoyable, so although I have had a failed attempt at Quest 1 Payment Options its not as dry as other approaches undertaken previously so retaining information should be easier. On reflection if I had followed the instructions instead of just having a bash ..
 
 
 ### Day 25: 8 July 2024  - Monday 
 
-**Today's Progress**: 
+**Today's Progress**: https://quest.stellar.org/learn/series/1/quest/1
 
 **Thoughts**:
 
