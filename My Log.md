@@ -211,7 +211,7 @@ Tutorials
 
 **Today's Progress**: Started Quests in Stellar Challenge in prep for challenge starting on 10th. 
 
-**Thoughts**:
+**Thoughts**: As this has an element of gameplay to it with levels & sizes of quests, and rewards it should be more engaging than other challenges I've encountered so setting up the wallet to complete the badge was easy.
 
 
 
@@ -219,8 +219,7 @@ Tutorials
 
 **Today's Progress**: https://quest.stellar.org/learn/series/1/quest/1
 
-**Thoughts**:
-
+**Thoughts**: The trial and error aspect of this is enjoyable, so although I have had a failed attempt at Quest 1 Payment Options its not as dry as other approaches undertaken previously so retaining information should be easier.
 
 
 ### Day 25: 8 July 2024  - Monday 
