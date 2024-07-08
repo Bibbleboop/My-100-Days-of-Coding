@@ -226,7 +226,7 @@ Tutorials
 
 **Today's Progress**: https://quest.stellar.org/learn/series/1/quest/1  Made progress with Stellar Quest Payment Operations/Create Account. 
 
-**Thoughts**: Will come back to this as I have attempted payment/Operations/Payment and keep getting errors. I am finding this frustrating, but this is all part of the learning experienec. I have found vids to check if I have a few failed attempts. (https://www.youtube.com/@everythingstellar. Payment quest completed after funding account 2 so it can receive funds
+**Thoughts**: Will come back to this as I have attempted payment/Operations/Payment and keep getting errors. I am finding this frustrating, but this is all part of the learning experienec. I have found vids to check if I have a few failed attempts. (https://www.youtube.com/@everythingstellar. Payment quest completed after funding account 2 so it can receive funds. Checking the transaction on Stellar.Expert is advisable before verifying to avoid unnecesary errors. 
 
 
 
