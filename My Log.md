@@ -226,18 +226,23 @@ Tutorials
 
 **Today's Progress**: https://quest.stellar.org/learn/series/1/quest/1  Made progress with Stellar Quest Payment Operations/Create Account. 
 
-**Thoughts**: Will come back to this as I have attempted payment/Operations/Payment and keep getting errors. I am finding this frustrating, but this is all part of the learning experienec. I have found vids to check if I have a few failed attempts. (https://www.youtube.com/@everythingstellar. Payment quest completed after funding account 2 so it can receive funds. Checking the transaction on Stellar.Expert is advisable before verifying to avoid unnecesary errors. 
+**Thoughts**: Will come back to this as I have attempted payment/Operations/Payment and keep getting errors. I am finding this frustrating, but this is all part of the learning experienec. I have found vids to check if I have a few failed attempts. (https://www.youtube.com/@everythingstellar. Payment quest completed after funding account 2 so it can receive funds. Checking the transaction on Stellar.Expert is advisable before verifying to avoid unnecesary errors. Creating a Trust Line 
 
 
 
 ### Day 26: 9 July 2024  - Tuesday 
 
-**Today's Progress**: 
+**Today's Progress**: Continuing with Stellar Quests level1 Path Payments for sending/ receiving assets different from received or sent asset. As opposed to in a classic payment scenario where asset sent is same as asset received, Path Payments do not directly transfer from one account to the other. Path Payments cross through Dex or Liquidity pools, sometimes multiple times to get to end destination.
 
-**Thoughts**:
+**Thoughts**: For example: Account A sells XLM → [buy XLM / sell ETH → buy ETH / sell BTC → buy BTC / sell USDC] → Account B receives USDC. These can fail if no viable exchange paths. But its convenient operation for currency conversion.
+This quest uses 4 different prefunded keypairs (Quest/ Issuer/ Distributor/ Destination). 
 
 
 
+
+
+
+______________________________________________________________________________
 ### Day 27: 10 July 2024  - Wednesday 
 
 **Today's Progress**: about #stellarchallenge - Stellar Challenge Starts 10th July  - This needs Scheduling in prior to start to keep upto date 
