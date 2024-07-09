@@ -235,17 +235,20 @@ Tutorials
 **Today's Progress**: Continuing with Stellar Quests level1 Path Payments for sending/ receiving assets different from received or sent asset. As opposed to in a classic payment scenario where asset sent is same as asset received, Path Payments do not directly transfer from one account to the other. Path Payments cross through Dex or Liquidity pools, sometimes multiple times to get to end destination. For example: Account A sells XLM → [buy XLM / sell ETH → buy ETH / sell BTC → buy BTC / sell USDC] → Account B receives USDC. These can fail if no viable exchange paths therefore required DEX offer or liquidity pool exchange path in existance. But its convenient operation for currency conversion.
 This quest uses 4 different prefunded keypairs (Quest/ Issuer/ Distributor/ Destination). The flow for this Path Payments Task is: Dist acc trusts the future issuing account; Create token for second wallet (issuer); send tokens to third wallet (distributer); Distribution wallet puts a sell order for asset; Receiving wallet (4th/ Destination wallet) trusts the asset; Quest account (primary) sends path  payment to receiving (destination) as new asset xlm -> asset
 
-**Thoughts**: This Task is more challenging with areas I have not covered previously so hopefully I will retain the concepts going forward. 
-
-
-
-
+**Thoughts**: This Task is more challenging with areas I have not covered previously so hopefully I will retain the concepts going forward. LEVEL 01 - Payment Operations -  accounts and payments in this fundamental series completed
 
 summarise above few days after completed tasks**
 ______________________________________________________________________________
-### Day 27: 10 July 2024  - Wednesday 
 
-**Today's Progress**: about #stellarchallenge - Stellar Challenge Starts 10th July  - This needs Scheduling in prior to start to keep upto date 
+### Day 27: 10 July 2024  - Wednesday am  
+
+**Today's Progress**: LEVEL 02 - Configuration Operations - Time to dig a little deeper with some more complex account-level operations. 1. Account Merge - Delete an account by transferring its XLM balance to another account. 
+
+**Thoughts**:
+
+### Day 27: 10 July 2024  - Wednesday pm
+
+**Today's Progress**: about #stellarchallenge - Stellar Challenge Starts 10th July  - Quests undertaken this week prior to todays start date  
 
 **Thoughts**:
 
