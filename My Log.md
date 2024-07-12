@@ -250,15 +250,15 @@ ______________________________________________________________________________
 
 **Today's Progress**: about #stellarchallenge - Stellar Challenge Starts 10th July  - Quests undertaken this week prior to todays start date  
 
-**Thoughts**:
+**Thoughts**:  Continuing Stellar Challenge prerequisits
 
 
 
 ### Day 28: 11 July 2024  - Thursday 
 
-**Today's Progress**: 
+**Today's Progress**: Stella Quest Configurations Operations, Account Merge, Manage Data, Set Options - Home Domain, Set Options - Weight, Threshholds amd Signers, Set Flags
 
-**Thoughts**:
+**Thoughts**: **Thoughts**:  Continuing Stellar Challenge prerequisits
 
 
 
