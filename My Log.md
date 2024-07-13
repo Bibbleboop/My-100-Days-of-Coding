@@ -274,7 +274,7 @@ ______________________________________________________________________________
 
 **Today's Progress**: On the Soraban Test Network, Generated a keypair and funded it through a test network account. This is a friendbot is a horizon API endpoint that funds the account with 10,000 kumens on the test network. Keypairs are used for the Stellar tasks as an account master key, account signer, and or as a stellar-core node key. 
 
-**Thoughts**: The Multisig quest using Set Options - Weights, Thresholds, and Signers is proving difficult so I am refering to the Tutorial Vid. 
+**Thoughts**: The Multisig quest using Set Options - Weights, Thresholds, and Signers is proving difficult so I am refering to the Tutorial Vid. THe error I was getting on this quest was not understanding from the instructions that I was also required to pake a paymebt to the second wallet, in order to complete the quest
 
 
 
