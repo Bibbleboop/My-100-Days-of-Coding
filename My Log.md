@@ -272,7 +272,7 @@ ______________________________________________________________________________
 
 ### Day 30: 13 July 2024  - Saturday 
 
-**Today's Progress**: 
+**Today's Progress**: On the Soraban Test Network, Generated a keypair and funded it through a test network account. This is a friendbot is a horizon API endpoint that funds the account with 10,000 kumens on the test network. Keypairs are used for the Stellar tasks as an account master key, account signer, and or as a stellar-core node key. 
 
 **Thoughts**:
 
