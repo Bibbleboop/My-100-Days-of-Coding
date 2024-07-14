@@ -280,9 +280,9 @@ ______________________________________________________________________________
 
 ### Day 31: 14 July 2024  - Sunday 
 
-**Today's Progress**: 
+**Today's Progress**: Every transaction (even failed ones) are identified by a unique Sequence Number. Using Bunp Sequence allows you to create different smart contract scenarios with different outcomes by setting the operation type to a different number (and submitting) before creating different outcomes from which you can choose a valid scenario at a later date (depending on the real life event)
 
-**Thoughts**:
+**Thoughts**: Dont forget to +1 to the new sequence number when building the next transaction
 
 
 
