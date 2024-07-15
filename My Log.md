@@ -5,7 +5,7 @@
 
 **Today's Progress**: By joining 100-days-of-code I have found a way to show up everyday with the goal to be a proficient coder.  
 
-**Thoughts:** This will be like riding a bike I'm sure. For now I need a quick refresh on Markdown, VSCode while I fork this Repo. 
+**Thoughts:** This will be like riding a bike I'm sure. For now I need a quick refresh on Markdown, VS Code while I fork this Repo. 
 
 **Link to work:** 
 
@@ -35,7 +35,7 @@
 
 **Today's Progress**: Refreshing React and exploring Server Side Rendering (SSR). 
 
-**Thoughts** Took a lot longer than I thouht to set up initial stages of a dapp due to VS Code, Next, Node.js version connflicts and dependancy errors. I'll try again during the week. 
+**Thoughts** Took a lot longer than I thought to set up initial stages of a Dapp due to VS Code, Next, Node.js version conflicts and dependency errors. I'll try again during the week. 
 
 **Link(s) to work**
 
@@ -43,7 +43,7 @@
 
 ### Day 4: 17th June 2024 - Monday
 
-**Today's Progress**: Resolved previous React Server Side Rendering issues. Set up index.js, importing module styles and images, module css and card modules (functional stateless Card Componennts) mapping imported api data for props, transforming components from stateless to class
+**Today's Progress**: Resolved previous React Server Side Rendering issues. Set up index.js, importing module styles and images, module CSS and card modules (functional stateless Card Components) mapping imported API data for props, transforming components from stateless to class
 
 **Thoughts** Will use https//ww.github.co/vercel/next.js/tree/canaryexamples for examples to fetch data from external API. ******** After several attempts at exploring errors its satisfying when the app page finally loads. I have noticed errors with the last few days commits  - need to investigate further
 
@@ -55,7 +55,7 @@
 
 **Today's Progress**: Resolved commit issues by cloning the 100 day Repo and archiving the incorrect forked version that doesn't show my commits. Working through React SSR tutorial using Redux for state management ..........
 
-**Thoughts** I need to totally refresh certain aspects of github repos so I don't make that mistake again. Need to refresh folder and file updating to personalise this repo
+**Thoughts** I need to totally refresh certain aspects of GitHub repos so I don't make that mistake again. Need to refresh folder and file updating to personalise this repo
 
 **Link(s) to work**
 
@@ -76,7 +76,7 @@
 **Today's Progress**: Adding Redux store and setup by installing dependencies for Redux (npm i next-redux-wrapper react-redux redux). Creating store by adding states to variables and functions. Creating a wrapper and updating index.js to pass 'store' in initial props ( static async getInitialProps ({store})). Return store.dispatch from the initial cards. (return store.dispatch(initialCards());
 import { initStore } from '../store'; (at top) and pass it at bottom of index.js (export default initStore.withRedux(Index);)
 Adding Redux Actions to the Redux Implementation. Actions are functions.  Adding Redux Reducers in store.js. 
-To test can use npm run build then npm start  - but the faster way is npm run dev - *** Test unsucessful with apparent error due to missing file ssr\.next\trace']   errno: -4048, ***
+To test can use npm run build then npm start  - but the faster way is npm run dev - *** Test unsuccessful with apparent error due to missing file ssr\.next\trace']   errno: -4048, ***
 
 **Thoughts** Although this Redux exercise was unsuccessful, it was very useful session to help with reminding me of terminology & structure
 
@@ -136,7 +136,7 @@ Tutorials
 
 **Today's Progress**: Working through Remix Tutorials including interface, Remix Project to understand Remix IDE Plug-Ins and visual debugger..
 
-**Thoughts**: There is a lotof information to consume here so I'll note this section to return to until fully proficient ... **** REMIX INFO - Learneth Tutorial Platform Integrated into Remix - includes quizzes for testing, ran by Solidity Unit Tests ****
+**Thoughts**: There is a lot of information to consume here so I'll note this section to return to until fully proficient ... **** REMIX INFO - Learneth Tutorial Platform Integrated into Remix - includes quizzes for testing, ran by Solidity Unit Tests ****
 
 
 
@@ -160,25 +160,25 @@ Tutorials
 
 **Today's Progress**: Attempting to deploy and run transactions in Ephemery & Sepolia Testnets in Remix Tutorials
 
-**Thoughts**: Ran into issues at several stages, including attempting to add Sepolia PoW Faucet as it now requires a gitcoin passport. I did begin to set up a gitcoin passport (https://passport.gitcoin.co/#), sucessful in some areas buut not in others - I will return to this when I have more time as I didn't understand all of it ...
+**Thoughts**: Ran into issues at several stages, including attempting to add Sepolia PoW Faucet as it now requires a gitcoin passport. I did begin to set up a gitcoin passport (https://passport.gitcoin.co/#), successful in some areas but not in others - I will return to this when I have more time as I didn't understand all of it ...
 
 
 
 ### Day 18: 1 July 2024  - Monday 
 
-**Today's Progress**: Trying to continue solidity exercises already started. Added to my daily tasks by starting thirdwebs Onchain Olympics, where a different NFT is minted everyday for 30 days, with docs and chain info for a differnt chain each day. 
+**Today's Progress**: Trying to continue solidity exercises already started. Added to my daily tasks by starting thirdweb Onchain Olympics, where a different NFT is minted everyday for 30 days, with docs and chain info for a different chain each day. 
 
-#stellarchallenge - Stellar Challenge Starts 10th July  - This needs Scheduling in prior to start to keep upto date 
+#stellarchallenge - Stellar Challenge Starts 10th July  - This needs Scheduling in prior to start to keep up to date 
 
-**about #stellarchallenge - Stellar Challenge Starts 10th July  - This needs Scheduling in prior to start to keep upto date  ISSThoughts**: My daily plans seem to get derailed by side quests and I end up not finishing anything, whilst starting something else. I will need to find a way to better track this and enable me to focus on plans 
+**about #stellarchallenge - Stellar Challenge Starts 10th July  - This needs Scheduling in prior to start to keep up to date : My daily plans seem to get derailed by side quests and I end up not finishing anything, whilst starting something else. I will need to find a way to better track this and enable me to focus on plans 
 
 
 
 ### Day 19: 2 July 2024  - Tuesday
 
-**Today's Progress**: Set up Issues to attempt to keep track of everything  - and milestomes to set timeframes. 
+**Today's Progress**: Set up Issues to attempt to keep track of everything  - and milestones to set timeframes. 
 
-**Thoughts**: This will be ongoing and needs regular review to ensure don't get too sidetracked by other side quests. Hopefully this will help me keep focused. 
+**Thoughts**: This will be ongoing and needs regular review to ensure don't get too side-tracked by other side quests. Hopefully this will help me keep focused. 
 
 
 
@@ -186,13 +186,13 @@ Tutorials
 
 **Today's Progress**: Focus to complete Solidity Intros
 
-**Thoughts**: I do have some vscode that I can match to the exercises to complete the certificates - Totally side tracked today with vs code and copilot, solidity scan, solidity tokens on solscan. Managed to not spend more than an hou on each and ended up back at React Compiler. 
+**Thoughts**: I do have some VS Code that I can match to the exercises to complete the certificates - Totally side tracked today with vs code and co-pilot, solidity scan, solidity tokens on Solscan. Managed to not spend more than an hou on each and ended up back at React Compiler. 
 
 
 
 ### Day 21: 4 July 2024  - Thursday 
 
-**Today's Progress**: Refreshing with article on React Compiler and added issue for it. Added Lables to issues to help with my daily prioritsation as I want to get coding as soon as I can but I keep getting pulled back to where gaps in my knowledge are. Stellar Challenge starts 10th July. 
+**Today's Progress**: Refreshing with article on React Compiler and added issue for it. Added Labels to issues to help with my daily prioritisation as I want to get coding as soon as I can but I keep getting pulled back to where gaps in my knowledge are. Stellar Challenge starts 10th July. 
 
 **Thoughts**: I will make priority for reading on 3 different topics for next 2 weeks and this will help me feel like I am making some progress instead of going on a million tangents every day
 
@@ -200,7 +200,7 @@ Tutorials
 
 ### Day 22: 5 July 2024  - Friday 
 
-**Today's Progress**: In additional to daily reading (above), over the weekend I will spend the bulk of time on the folowing : Eat The Blocks  Build a SINGLE Blockchain app for ALL smart contracts -  https://www.youtube.com/live/AznyJDTby1g
+**Today's Progress**: In additional to daily reading (above), over the weekend I will spend the bulk of time on the following : Eat The Blocks  Build a SINGLE Blockchain app for ALL smart contracts -  https://www.youtube.com/live/AznyJDTby1g
 
 
 **Thoughts**:
@@ -226,13 +226,13 @@ Tutorials
 
 **Today's Progress**: https://quest.stellar.org/learn/series/1/quest/1  Made progress with Stellar Quest Payment Operations/Create Account. 
 
-**Thoughts**: Will come back to this as I have attempted payment/Operations/Payment and keep getting errors. I am finding this frustrating, but this is all part of the learning experienec. I have found vids to check if I have a few failed attempts. (https://www.youtube.com/@everythingstellar. Payment quest completed after funding account 2 so it can receive funds. Checking the transaction on Stellar.Expert is advisable before verifying to avoid unnecesary errors. Creating a Trust Line 
+**Thoughts**: Will come back to this as I have attempted payment/Operations/Payment and keep getting errors. I am finding this frustrating, but this is all part of the learning experience. I have found vids to check if I have a few failed attempts. (https://www.youtube.com/@everythingstellar. Payment quest completed after funding account 2 so it can receive funds. Checking the transaction on Stellar Expert is advisable before verifying to avoid unnecessary errors. Creating a Trust Line 
 
 
 
 ### Day 26: 9 July 2024  - Tuesday 
 
-**Today's Progress**: Continuing with Stellar Quests level1 Path Payments for sending/ receiving assets different from received or sent asset. As opposed to in a classic payment scenario where asset sent is same as asset received, Path Payments do not directly transfer from one account to the other. Path Payments cross through Dex or Liquidity pools, sometimes multiple times to get to end destination. For example: Account A sells XLM → [buy XLM / sell ETH → buy ETH / sell BTC → buy BTC / sell USDC] → Account B receives USDC. These can fail if no viable exchange paths therefore required DEX offer or liquidity pool exchange path in existance. But its convenient operation for currency conversion.
+**Today's Progress**: Continuing with Stellar Quests level1 Path Payments for sending/ receiving assets different from received or sent asset. As opposed to in a classic payment scenario where asset sent is same as asset received, Path Payments do not directly transfer from one account to the other. Path Payments cross through Dex or Liquidity pools, sometimes multiple times to get to end destination. For example: Account A sells XLM → [buy XLM / sell ETH → buy ETH / sell BTC → buy BTC / sell USDC] → Account B receives USDC. These can fail if no viable exchange paths therefore required DEX offer or liquidity pool exchange path in existence. But its convenient operation for currency conversion.
 This quest uses 4 different prefunded keypairs (Quest/ Issuer/ Distributor/ Destination). The flow for this Path Payments Task is: Dist acc trusts the future issuing account; Create token for second wallet (issuer); send tokens to third wallet (distributer); Distribution wallet puts a sell order for asset; Receiving wallet (4th/ Destination wallet) trusts the asset; Quest account (primary) sends path  payment to receiving (destination) as new asset xlm -> asset
 
 **Thoughts**: This Task is more challenging with areas I have not covered previously so hopefully I will retain the concepts going forward. LEVEL 01 - Payment Operations -  accounts and payments in this fundamental series completed
@@ -250,15 +250,15 @@ ______________________________________________________________________________
 
 **Today's Progress**: about #stellarchallenge - Stellar Challenge Starts 10th July  - Quests undertaken this week prior to todays start date  
 
-**Thoughts**:  Continuing Stellar Challenge prerequisits
+**Thoughts**:  Continuing Stellar Challenge prerequisites
 
 
 
 ### Day 28: 11 July 2024  - Thursday 
 
-**Today's Progress**: Stella Quest Configurations Operations, Account Merge, Manage Data, Set Options - Home Domain, Set Options - Weight, Threshholds amd Signers, Set Flags
+**Today's Progress**: Stella Quest Configurations Operations, Account Merge, Manage Data, Set Options - Home Domain, Set Options - Weight, Thresholds and Signers, Set Flags
 
-**Thoughts**: **Thoughts**:  Continuing Stellar Challenge prerequisits
+**Thoughts**: **Thoughts**:  Continuing Stellar Challenge prerequisites
 
 
 
@@ -272,25 +272,27 @@ ______________________________________________________________________________
 
 ### Day 30: 13 July 2024  - Saturday 
 
-**Today's Progress**: On the Soraban Test Network, Generated a keypair and funded it through a test network account. This is a friendbot is a horizon API endpoint that funds the account with 10,000 kumens on the test network. Keypairs are used for the Stellar tasks as an account master key, account signer, and or as a stellar-core node key. 
+**Today's Progress**: On the Soraban Test Network, Generated a keypair and funded it through a test network account. This is a friendbot is a horizon API endpoint that funds the account with 10,000 lumens on the test network. Keypairs are used for the Stellar tasks as an account master key, account signer, and or as a stellar-core node key. 
 
-**Thoughts**: The Multisig quest using Set Options - Weights, Thresholds, and Signers is proving difficult so I am refering to the Tutorial Vid. THe error I was getting on this quest was not understanding from the instructions that I was also required to pake a paymebt to the second wallet, in order to complete the quest
+**Thoughts**: The Multi-Sig quest using Set Options - Weights, Thresholds, and Signers is proving difficult so I am referring to the Tutorial Vid. The error I was getting on this quest was not understanding from the instructions that I was also required to make a payment to the second wallet, in order to complete the quest
 
 
 
 ### Day 31: 14 July 2024  - Sunday 
 
-**Today's Progress**: Every transaction (even failed ones) are identified by a unique Sequence Number. Using Bunp Sequence allows you to create different smart contract scenarios with different outcomes by setting the operation type to a different number (and submitting) before creating different outcomes from which you can choose a valid scenario at a later date (depending on the real life event)
+**Today's Progress**: Every transaction (even failed ones) are identified by a unique Sequence Number. Using Bump Sequence allows you to create different smart contract scenarios with different outcomes by setting the operation type to a different number (and submitting) before creating different outcomes from which you can choose a valid scenario at a later date (depending on the real life event)
 
-**Thoughts**: Dont forget to +1 to the new sequence number when building the next transaction
+**Thoughts**: Don't forget to +1 to the new sequence number when building the next transaction
+
+Stellar Quest - Sponsorship  - Sponsored Reserves use three operations - Begin, End & Revoke. Begin and End Sponsoring Future Reserves are sandwiched together for a specific set of operations, but no ongoing sponsorship of future reserves takes place. Revoke, transfers the funds back to the Sponsor.  Quest Account should be zero (I have already funded it) so need to create a new account to transfer the funds away from Quest Account 
 
 
 
 ### Day 32: 15 July 2024  - Monday 
 
-**Today's Progress**: 
+**Today's Progress**: Stellar Quest - Sponsorship
 
-**Thoughts**:
+**Thoughts**: This quest took me a while and was frustrating at times as I couldn't decipher all the error codes. I had to walk away from it and contact discord, who suggested alternatives that I had not tried. I had funded the quest account in error and went off script trying to create a zero balance, at this stage I thought I had broken it and would need a reset. It was a frustrating but useful day and I did complete it as soon as I had admitted defeat and posted the error code to discord. The most important thing I have learned is that I should test every single entry of the transaction and operations, even if I think an entry is definitely correct. 
 
 
 
