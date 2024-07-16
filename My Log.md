@@ -10,7 +10,6 @@
 **Link to work:** 
 
 
-
 ### Day 1: 14th June 2024 - Friday
 
 **Today's Progress**: Will identify which projects to complete first before starting anything further ones
@@ -304,13 +303,13 @@ Stellar Quest - Sponsorship  - Sponsored Reserves use three operations - Begin, 
 Claimable Balance Operation is where the recipient can use the Claimable Balance ID to claim and sign online to receive this balance, if any preconditional actions have been met
 
 
-
+Clawbacks - 
 
 
 
 ### Day 34: 17 July 2024  - Wednesday 
 
-**Today's Progress**: 
+**Today's Progress**: Read up on Merge Dev Hackathon (July 22 - Sept 9th)
 
 **Thoughts**:
 
@@ -351,7 +350,7 @@ Claimable Balance Operation is where the recipient can use the Claimable Balance
 
 ### Day 39: 22 July 2024  - Monday 
 
-**Today's Progress**: 
+**Today's Progress**: MERGE - Dev Hackathom - Reusable Creativity on WIX Studio
 
 **Thoughts**:
 
