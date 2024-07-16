@@ -298,14 +298,19 @@ Stellar Quest - Sponsorship  - Sponsored Reserves use three operations - Begin, 
 
 **Today's Progress**: Stellar Quest - Claimable Balances
 
-**Thoughts**: Claimable Balances is alternative to opening trust lines to make non-native payments by splitting the payment. Create Claimable Balance Operation holds the payment from the sender Onchain. Then the Create Claimable Balance Operation is where the destination account sends/holds the claimable balance for the claimant to accept after conditions are satisfied. Up to 10 claimants/recipients can be set (and can include yourself), but the balance can only be claimed by the first person as long as the predicate conditions are satisfied.  Unconditional can be claimed at any time but Conditional will be time-based. Either Relative time or Absolute time  - e.g. x minutes to have passed but before a certain date. Claim.  
+**Thoughts**: Claimable Balances is alternative to opening trust lines to make non-native payments by splitting the payment. Create Claimable Balance Operation holds the payment from the sender Onchain. Then the Create Claimable Balance Operation is where the destination account sends/holds the claimable balance for the claimant to accept after conditions are satisfied. Up to 10 claimants/recipients can be set (and can include yourself), but the balance can only be claimed by the first person as long as the predicate conditions are satisfied.  Unconditional can be claimed at any time but Conditional will be time-based. Either Relative time or Absolute time  - e.g. x minutes to have passed but before a certain date. Claimable Balance Operation is where the recipient can use the Claimable Balance ID to claim and sign online to receive this balance, if any preconditional actions have been met
 
-Claimable Balance Operation is where the recipient can use the Claimable Balance ID to claim and sign online to receive this balance, if any preconditional actions have been met
+Stellar Quest - Clawbacks - Clawbacks are possible on Stellar if they have a flag set up on the public ledger prior to transactions (not available retospectively) - This is called a clawback-enabled asset, and will burn (remove and destroy) the specified amount from a recipients balance. Required to meet securities regs etc and sueful in cases of fraud or error. Regulated assets (money market funds, bonds, equities) issuance is simplified with asset clawbacks on Stellar. Operations include: Issuing account set up to be clawback-enabled, Issue of the asset, Burn the asset (or portion of) after being Clawed back. 
+Operations
+ Set Options/ Set Flags  Authorise Clawback enabled (relates to all subsequent trustlines from the source account in trabsaction) 
+            / Set Flags  Authorisation Revocable (allows issuer to revoke authorisation by pulling all trustlines)
+ Clawback / Specify Asset & Account Clawing back from receipient 
+
+ Stellar Quest  - Liquidity Pool 
 
 
-Clawbacks - 
 
-
+ 
 
 ### Day 34: 17 July 2024  - Wednesday 
 
