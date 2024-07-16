@@ -295,12 +295,16 @@ Stellar Quest - Sponsorship  - Sponsored Reserves use three operations - Begin, 
 **Thoughts**: This quest took me a while and was frustrating at times as I couldn't decipher all the error codes. I had to walk away from it and contact discord, who suggested alternatives that I had not tried. I had funded the quest account in error and went off script trying to create a zero balance, at this stage I thought I had broken it and would need a reset. It was a frustrating but useful day and I did complete it as soon as I had admitted defeat and posted the error code to discord. The most important thing I have learned is that I should test every single entry of the transaction and operations, even if I think an entry is definitely correct. 
 
 
-
 ### Day 33: 16 July 2024  - Tuesday 
 
-**Today's Progress**: 
+**Today's Progress**: Stellar Quest - Claimable Balances
 
-**Thoughts**:
+**Thoughts**: Claimable Balances is alternative to opening trust lines to make non-native payments by splitting the payment. Create Claimable Balance Operation holds the payment from the sender Onchain. Then the Create Claimable Balance Operation is where the destination account sends/holds the claimable balance for the claimant to accept after conditions are satisfied. Up to 10 claimants/recipients can be set (and can include yourself), but the balance can only be claimed by the first person as long as the predicate conditions are satisfied.  Unconditional can be claimed at any time but Conditional will be time-based. Either Relative time or Absolute time  - e.g. x minutes to have passed but before a certain date. Claim.  
+
+Claimable Balance Operation is where the recipient can use the Claimable Balance ID to claim and sign online to receive this balance, if any preconditional actions have been met
+
+
+
 
 
 
