@@ -310,21 +310,21 @@ Operations
 
 ### Day 34: 17 July 2024  - Wednesday 
 
-**Today's Progress**:  Stellar Quest  - Liquidity Pools are improved on Stellar with the (AMM) Automatic Market Maker functionality. New Features & Operations have been added since the implementation of Protocol 18 and CAP-0038 (see below***). These enable onchain, constant product AMMs on the Stellar Network via the Liquidity Pool (LP) feature. 
+**Today's Progress**:  Stellar Quest  - Liquidity Pools are improved on Stellar with the (AMM) Automatic Market Maker functionality. New Features & Operations have been added since the implementation of Protocol 18 and CAP-0038 (see below***). These enable Onchain, constant product AMMs on the Stellar Network via the Liquidity Pool (LP) feature. 
 
-Objextives of this Quest: 
-  * Open a new LP with Quest Account by making an initial deposit/ Change Trust/Liquidity Pool Shares/ endpointd for Liqioudity Pool ID
+Objectives of this Quest: 
+  * Open a new LP with Quest Account by making an initial deposit/ Change Trust/Liquidity Pool Shares/ endpoint for Liquidity Pool ID
   * Use the LP with a path payment operation from another account **
   * Close the position in the LP with Quest Account and receive any fee rewards
 
 ***(Core Advancement Proposals, or CAPS, are ideas/suggestions that guide the development and direction of the Stellar network)
-** see formula for logic for account debits as LP Deposits and withdrwal is not linear due to refil reequired to keep pools price balanced. https://quest.stellar.org/learn/series/3/quest/5
+** see formula for logic for account debits as LP Deposits and withdrawal is not linear due to refill required to keep pools price balanced. https://quest.stellar.org/learn/series/3/quest/5
 FURTHER READING: https://quest.stellar.org/learn/series/3/quest/5
 
 **Thoughts**: This final quest was more challenging but I managed to complete quests quicker today with only minimal help from the video. CLASSIC QUESTS COMPLETED 16 of 16
 
 SIDE QUEST 1 Fee Bump Transactions 
-
+Do not enter final submit until both transaction payment and fee bump have both been submitted independently in transaction submitter (using only 1 signature for each)
 
 
 ### Day 35: 18 July 2024  - Thursday 
