@@ -326,6 +326,16 @@ FURTHER READING: https://quest.stellar.org/learn/series/3/quest/5
 SIDE QUEST 1 Fee Bump Transactions 
 Do not enter final submit until both transaction payment and fee bump have both been submitted independently in transaction submitter (using only 1 signature for each)
 
+SIDE QUEST 2 Mint an NFT on Stellar Blockchain
+  * Using IPFS NFT.Storage (https://nft.storage/) To upload Image for this Quest 
+  * Best practices for NFTs on Stellar  - SEP-0039 Interoperability Recommendations for NFTs (https://github.com/stellar/stellar-protocol/blob/master/ecosystem/sep-0039.md)
+
+  * .... this is not complete as I could not locate Stellar on the Options when attempting to Upload NFT Image to NFT.Storage.....
+
+
+
+
+
 
 ### Day 35: 18 July 2024  - Thursday 
 
