@@ -380,7 +380,7 @@ SIDE QUEST 2 Mint an NFT on Stellar Blockchain
 
 ### Day 40: 23 July 2024  - Tuesday 
 
-**Today's Progress**: 
+**Today's Progress**: Stellar Smart Contract Challenge  - Ensuring I understand the brief and using Perplexity.ai whilst brain storming ideas for this challenge. Rust and Soroban are required also. 
 
 **Thoughts**:
 
