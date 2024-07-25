@@ -400,8 +400,7 @@ SIDE QUEST 2 Mint an NFT on Stellar Blockchain
 Side tracked by SideQuest Smart Contract crypto trading bot- Intro to Infura.io  - infura Abi - ethers - foundry  - anvil
 
 
-**Thoughts**:
-
+**Thoughts**: Took a while to install foundry, but I figured out how to move my folders to find the same folder on bash and vscode (bash was picking up from the cloud that didn't contain current project)
 
 
 ### Day 43: 26 July 2024  - Friday 
