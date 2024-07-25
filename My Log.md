@@ -397,6 +397,8 @@ SIDE QUEST 2 Mint an NFT on Stellar Blockchain
 ### Day 42: 25 July 2024  - Thursday 
 
 **Today's Progress**: Researching Rust and Soroban
+Side tracked by SideQuest Smart Contract crypto trading bot- Intro to Infura.io  - infura Abi - ethers - foundry  - anvil
+
 
 **Thoughts**:
 
