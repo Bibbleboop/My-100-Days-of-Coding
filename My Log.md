@@ -396,7 +396,7 @@ SIDE QUEST 2 Mint an NFT on Stellar Blockchain
 
 ### Day 42: 25 July 2024  - Thursday 
 
-**Today's Progress**: 
+**Today's Progress**: Researching Rust and Soroban
 
 **Thoughts**:
 
