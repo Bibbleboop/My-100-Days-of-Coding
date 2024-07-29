@@ -333,40 +333,12 @@ SIDE QUEST 2 Mint an NFT on Stellar Blockchain
   * .... this is not complete as I could not locate Stellar on the Options when attempting to Upload NFT Image to NFT.Storage.....
 
 
-
-
-
-
 ### Day 35: 18 July 2024  - Thursday 
 
 **Today's Progress**: Read up on Merge Dev Hackathon (July 22 **- Sept 9th)
 
 **Thoughts**:
 
-
-
-
-### Day 36: 19 July 2024  - Friday
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day 37: 20 July 2024  - Saturday 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day 38: 21 July 2024  - Sunday 
-
-**Today's Progress**: 
-
-**Thoughts**:
 
 
 
@@ -386,14 +358,6 @@ SIDE QUEST 2 Mint an NFT on Stellar Blockchain
 
 
 
-### Day 41: 24 July 2024  - Wednesday 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
 ### Day 42: 25 July 2024  - Thursday 
 
 **Today's Progress**: Researching Rust and Soroban
@@ -403,33 +367,11 @@ Side tracked by SideQuest Smart Contract crypto trading bot- Intro to Infura.io 
 **Thoughts**: Took a while to install foundry, but I figured out how to move my folders to find the same folder on bash and vscode (bash was picking up from the cloud that didn't contain current project)
 
 
-### Day 43: 26 July 2024  - Friday 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day 44: 27 July 2024  - Saturday 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day 45: 28 July 2024  - Sunday 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
 ### Day 46: 29 July 2024  - Monday 
 
-**Today's Progress**: 
+**Today's Progress**: Pickinup on Crypto trading bot. Using Uniswap v2 Contract Deployments factoryAddress on Ethereum Mainnet to create blockchain.json file and copying array from factoryAbi to allow us to connect to the contract.  bot.js (mainfile) Etheres library required for WebSocketProvider (and factory) to read values from dot.env file. The facroryAddress is pulled through from json file. Set up listener to show details of new liquidity pool. Timeout function added for ms delay. 
+* new WebSocketProvider(process.env.LOCAL_RPC_URL_WS) = local blockchain forked from main blockchain for testing
+
 
 **Thoughts**:
 
