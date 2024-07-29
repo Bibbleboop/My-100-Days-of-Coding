@@ -361,7 +361,11 @@ SIDE QUEST 2 Mint an NFT on Stellar Blockchain
 ### Day 42: 25 July 2024  - Thursday 
 
 **Today's Progress**: Researching Rust and Soroban
-Side tracked by SideQuest Smart Contract crypto trading bot- Intro to Infura.io  - infura Abi - ethers - foundry  - anvil
+Side tracked by SideQuest Smart Contract crypto trading bot- Intro to Infura.io  - infura Abi - ethers - foundry  - anvil. 
+curl -L https://foundry.paradigm.xyz | bash
+foundryup
+anvil (This will start a local Ethereum testnet node.
+
 
 
 **Thoughts**: Took a while to install foundry, but I figured out how to move my folders to find the same folder on bash and vscode (bash was picking up from the cloud that didn't contain current project)
@@ -369,11 +373,16 @@ Side tracked by SideQuest Smart Contract crypto trading bot- Intro to Infura.io 
 
 ### Day 46: 29 July 2024  - Monday 
 
-**Today's Progress**: Pickinup on Crypto trading bot. Using Uniswap v2 Contract Deployments factoryAddress on Ethereum Mainnet to create blockchain.json file and copying array from factoryAbi to allow us to connect to the contract.  bot.js (mainfile) Etheres library required for WebSocketProvider (and factory) to read values from dot.env file. The facroryAddress is pulled through from json file. Set up listener to show details of new liquidity pool. Timeout function added for ms delay. 
-* new WebSocketProvider(process.env.LOCAL_RPC_URL_WS) = local blockchain forked from main blockchain for testing
+**Today's Progress**: Pickinup on Crypto trading bot. Using Uniswap v2 Contract Deployments factoryAddress on Ethereum Mainnet to create blockchain.json file and copying array from factoryAbi to allow us to connect to the contract.  bot.js (mainfile) Etheres library required for WebSocketProvider (and factory) to read values from dot.env file. The facroryAddress is pulled through from json file. Set up listener to show details of new liquidity pool. Timeout promise function added for ms delay. 
+* new WebSocketProvider(process.env.LOCAL_RPC_URL_WS) = local blockchain forked from main blockchain for testing so a) don't have to wait for real events from the blockchain  b) its better to fork incase there are bugs. Forked cooy (local copy) to create a new liquidity pool (for no cost as it mirrors the actual blockchain), using tools inc Foundry (framework for developing smart contracts) which has a utility called Anvil, a local blockchain to fork from. Create script file using Makefile, and use Infura.io to run anvil as follows.  
 
 
 **Thoughts**:
+A lot of new terms here that I will need oo understand before continuing inc, websockets, .env files contents and purpose. (https://www.infura.io/blog/post/how-to-use-dotenv-to-enhance-basic-security-within-your-dapp)
+VSCode Foundry Test runner extension
+
+Having immense issues with tryng to run foundry and anvil from terminal in VSCode. It runs if i do it in bash but my brain is missing the bit to join the dots between that and vscode. I'm stuck even after asking perpelxity.ai several times. the current ELI5 instructions show several steps and end with running foundryup from bash - this is where  am confused as I want to workin my terminal in vscode  - I don't even know how to ask teh next question to understand what I don't understand.  
+I am at 30mins ish on this vid and have spent hours trying to understand how to get anvil to work https://www.youtube.com/live/v7Y7F60YdFQ
 
 
 
