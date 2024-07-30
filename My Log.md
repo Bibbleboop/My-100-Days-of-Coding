@@ -388,9 +388,9 @@ I am at 30mins ish on this vid and have spent hours trying to understand how to 
 
 ### Day 47: 30 July 2024  - Tuesday 
 
-**Today's Progress**: 
+**Today's Progress**: Using copilot and codespaces to overcome issues with laoding foundry and anvil
 
-**Thoughts**:
+**Thoughts**: Crypto Bot Respository is in a mess atm but was able to load Foundry using codespaces so it was a sucessful day - I will follow up with this tommorow and will hopefully make some progress (fingers crossed) This log is messy also but the comments are an aide memoire and I will summarise each section at end of 100 days when reflecting on what I have acheived and preparing my next steps. 
 
 
 
