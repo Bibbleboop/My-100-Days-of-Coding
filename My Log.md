@@ -402,7 +402,7 @@ I am at 30mins ish on this vid and have spent hours trying to understand how to 
 
 
 
-### Day 49: August 2024  - day 
+### Day 49: 1 August 2024  - Thursday 
 
 **Today's Progress**: 
 
@@ -410,7 +410,7 @@ I am at 30mins ish on this vid and have spent hours trying to understand how to 
 
 
 
-### Day 50: August 2024  - day 
+### Day 50: 2 August 2024  - Friday 
 
 **Today's Progress**: 
 
@@ -418,7 +418,131 @@ I am at 30mins ish on this vid and have spent hours trying to understand how to 
 
 
 
-### Day 51: August 2024  - day 
+### Day 51: 3 August 2024  - Saturday 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 52: 4 August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day 49: 5 August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 50: 6 August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 51: 7 August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 52: 8 August 2024  - day 
+
+**Today's Progress**: Buy storage on NFTStorage to complete "Side Quest - Mint an NFT on Stellar - Publish an NFT on the Stellar blockchain "  ********** COMPLETE STELLAR PREQUESTS  - Will have to wait for next Stellar Smart Contract Challenge to start to take part when completed all SideQuests !!
+
+**Thoughts**:
+
+
+### Day 49: 9 August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 50: 10 August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 51: 11 August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 52: 12 August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day 49: 13 August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 50: 14 August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 51: 15 August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 52: 16 August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day 49: 17 August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 50: 18 August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 51:  August 2024  - day 
 
 **Today's Progress**: 
 
@@ -431,3 +555,97 @@ I am at 30mins ish on this vid and have spent hours trying to understand how to 
 **Today's Progress**: 
 
 **Thoughts**:
+
+
+### Day 49:  August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 50:  August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 51:  August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 52: August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day 49:  August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 50:  August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 51:  August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 52: August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day 49:  August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 50:  August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 51:  August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day 52: August 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
