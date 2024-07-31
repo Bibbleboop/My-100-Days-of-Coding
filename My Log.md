@@ -396,7 +396,7 @@ I am at 30mins ish on this vid and have spent hours trying to understand how to 
 
 ### Day 48: 31 July 2024  - Wednesday 
 
-**Today's Progress**: 
+**Today's Progress**: Crypto Sniping Bot cont - Connect to UniswapV2Factory.col (smart contract that creates liquidity pools) Create new liquidity pool by creating a pair, token0 and token1 and listen to the events  - create a configuration file "blockchain.json". Includes factoryAddress for Ethereum Mainnet & Abi (json doc with array that describes functions of smart contract) 
 
 **Thoughts**:
 
