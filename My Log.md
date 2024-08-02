@@ -401,18 +401,11 @@ I am at 30mins ish on this vid and have spent hours trying to understand how to 
 **Thoughts**:
 
 
-
-### Day 49: 1 August 2024  - Thursday 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
 ### Day 50: 2 August 2024  - Friday 
 
-**Today's Progress**: 
+**Today's Progress**: To complete Stellar Side Quests I went back to NFT.Storage as per link in instructions and paid for storage but I think the link should have been directed to NFT.UP instead and I didn't need to pay. Error on NFT.UP when trying to add NFT image "Error: storing files: API Key is malformed or failed to parse."
+
+Looking at help files on NFT.Storage it is unclear if I should be uploading tokens - so I will have to open a ticket. I don;t know if or when I will receive a response so I'll move on for now
 
 **Thoughts**:
 
