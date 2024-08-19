@@ -410,46 +410,6 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 **Thoughts**:
 
 
-
-### Day 51: 3 August 2024  - Saturday 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day 52: 4 August 2024  - day 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-### Day 49: 5 August 2024  - day 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day 50: 6 August 2024  - day 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day 51: 7 August 2024  - day 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
 ### Day 52: 8 August 2024  - day 
 
 **Today's Progress**: Buy storage on NFTStorage to complete "Side Quest - Mint an NFT on Stellar - Publish an NFT on the Stellar blockchain "  ********** COMPLETE STELLAR PREQUESTS  - Will have to wait for next Stellar Smart Contract Challenge to start to take part when completed all SideQuests !!
@@ -457,64 +417,9 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 **Thoughts**:
 
 
-### Day 49: 9 August 2024  - day 
+### Day 52: 16 August 2024  - Friday 
 
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day 50: 10 August 2024  - day 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day 51: 11 August 2024  - day 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day 52: 12 August 2024  - day 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-### Day 49: 13 August 2024  - day 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day 50: 14 August 2024  - day 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day 51: 15 August 2024  - day 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day 52: 16 August 2024  - day 
-
-**Today's Progress**: 
+**Today's Progress**: Minted NFT on Opensea and uploaded CID data from Pinata to NFT Storage for use in Stellar Challenge PreRequesites. 
 
 **Thoughts**:
 
