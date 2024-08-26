@@ -1,4 +1,4 @@
- # 100 Days Of Code - My Log
+ # 100 Days Of Code - My Log (Days with no progress will not be counted - hence 100 days is longer than 100 calendar days)
  https://www.100daysofcode.com/
 
 ### Day 0: 13th June 2024
@@ -335,14 +335,14 @@ SIDE QUEST 2 Mint an NFT on Stellar Blockchain
 
 ### Day 35: 18 July 2024  - Thursday 
 
-**Today's Progress**: Read up on Merge Dev Hackathon (July 22 **- Sept 9th)
+**Today's Progress**: To Read up on Merge Dev Hackathon (July 22 **- Sept 9th) - did not complete
 
 **Thoughts**:
 
 
 
 
-### Day 39: 22 July 2024  - Monday 
+### Day 36: 22 July 2024  - Monday 
 
 **Today's Progress**: MERGE - Dev Hackathom - Reusable Creativity on WIX Studio
 
@@ -350,7 +350,7 @@ SIDE QUEST 2 Mint an NFT on Stellar Blockchain
 
 
 
-### Day 40: 23 July 2024  - Tuesday 
+### Day 37: 23 July 2024  - Tuesday 
 
 **Today's Progress**: Stellar Smart Contract Challenge  - Ensuring I understand the brief and using Perplexity.ai whilst brain storming ideas for this challenge. Rust and Soroban are required also. 
 
@@ -358,7 +358,7 @@ SIDE QUEST 2 Mint an NFT on Stellar Blockchain
 
 
 
-### Day 42: 25 July 2024  - Thursday 
+### Day 38: 25 July 2024  - Thursday 
 
 **Today's Progress**: Researching Rust and Soroban
 Side tracked by SideQuest Smart Contract crypto trading bot- Intro to Infura.io  - infura Abi - ethers - foundry  - anvil. 
@@ -371,11 +371,10 @@ anvil (This will start a local Ethereum testnet node.
 **Thoughts**: Took a while to install foundry, but I figured out how to move my folders to find the same folder on bash and vscode (bash was picking up from the cloud that didn't contain current project)
 
 
-### Day 46: 29 July 2024  - Monday 
+### Day 39: 29 July 2024  - Monday 
 
 **Today's Progress**: Pickinup on Crypto trading bot. Using Uniswap v2 Contract Deployments factoryAddress on Ethereum Mainnet to create blockchain.json file and copying array from factoryAbi to allow us to connect to the contract.  bot.js (mainfile) Etheres library required for WebSocketProvider (and factory) to read values from dot.env file. The facroryAddress is pulled through from json file. Set up listener to show details of new liquidity pool. Timeout promise function added for ms delay. 
 * new WebSocketProvider(process.env.LOCAL_RPC_URL_WS) = local blockchain forked from main blockchain for testing so a) don't have to wait for real events from the blockchain  b) its better to fork incase there are bugs. Forked cooy (local copy) to create a new liquidity pool (for no cost as it mirrors the actual blockchain), using tools inc Foundry (framework for developing smart contracts) which has a utility called Anvil, a local blockchain to fork from. Create script file using Makefile, and use Infura.io to run anvil as follows.  
-
 
 **Thoughts**:
 A lot of new terms here that I will need oo understand before continuing inc, websockets, .env files contents and purpose. (https://www.infura.io/blog/post/how-to-use-dotenv-to-enhance-basic-security-within-your-dapp)
@@ -386,7 +385,7 @@ I am at 30mins ish on this vid and have spent hours trying to understand how to 
 
 
 
-### Day 47: 30 July 2024  - Tuesday 
+### Day 40: 30 July 2024  - Tuesday 
 
 **Today's Progress**: Using copilot and codespaces to overcome issues with laoding foundry and anvil
 
@@ -394,14 +393,14 @@ I am at 30mins ish on this vid and have spent hours trying to understand how to 
 
 
 
-### Day 48: 31 July 2024  - Wednesday 
+### Day 41: 31 July 2024  - Wednesday 
 
 **Today's Progress**: Crypto Sniping Bot cont - Connect to UniswapV2Factory.col (smart contract that creates liquidity pools) Create new liquidity pool by creating a pair, token0 and token1 and listen to the events  - create a configuration file "blockchain.json". Includes factoryAddress for Ethereum Mainnet & Abi (json doc with array that describes functions of smart contract) 
 
 **Thoughts**:
 
 
-### Day 50: 2 August 2024  - Friday 
+### Day 42: 2 August 2024  - Friday 
 
 **Today's Progress**: To complete Stellar Side Quests I went back to NFT.Storage as per link in instructions and paid for storage but I think the link should have been directed to NFT.UP instead and I didn't need to pay. Error on NFT.UP when trying to add NFT image "Error: storing files: API Key is malformed or failed to parse."
 
@@ -410,21 +409,21 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 **Thoughts**:
 
 
-### Day 52: 8 August 2024  - day 
+### Day 43: 8 August 2024  - day 
 
 **Today's Progress**: Buy storage on NFTStorage to complete "Side Quest - Mint an NFT on Stellar - Publish an NFT on the Stellar blockchain "  ********** COMPLETE STELLAR PREQUESTS  - Will have to wait for next Stellar Smart Contract Challenge to start to take part when completed all SideQuests !!
 
 **Thoughts**:
 
 
-### Day 52: 16 August 2024  - Friday 
+### Day 44: 16 August 2024  - Friday 
 
 **Today's Progress**: Minted NFT on Opensea and uploaded CID data from Pinata to NFT Storage for use in Stellar Challenge PreRequesites. 
 
 **Thoughts**:
 
 
-### Day 49: 17 August 2024  - day 
+### Day xx: month 2024  - day  
 
 **Today's Progress**: 
 
@@ -432,7 +431,7 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 
 
-### Day 50: 18 August 2024  - day 
+### Day xx: month 2024  - day 
 
 **Today's Progress**: 
 
@@ -440,7 +439,14 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 
 
-### Day 51:  August 2024  - day 
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
 
 **Today's Progress**: 
 
@@ -448,14 +454,7 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 
 
-### Day 52: August 2024  - day 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-### Day 49:  August 2024  - day 
+### Day xx: month 2024  - day 
 
 **Today's Progress**: 
 
@@ -463,7 +462,14 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 
 
-### Day 50:  August 2024  - day 
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
 
 **Today's Progress**: 
 
@@ -471,7 +477,7 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 
 
-### Day 51:  August 2024  - day 
+### Day xx: month 2024  - day 
 
 **Today's Progress**: 
 
@@ -479,22 +485,14 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 
 
-### Day 52: August 2024  - day 
+### Day xx: month 2024  - day 
 
 **Today's Progress**: 
 
 **Thoughts**:
 
 
-### Day 49:  August 2024  - day 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day 50:  August 2024  - day 
+### Day xx: month 2024  - day  
 
 **Today's Progress**: 
 
@@ -502,7 +500,7 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 
 
-### Day 51:  August 2024  - day 
+### Day xx: month 2024  - day 
 
 **Today's Progress**: 
 
@@ -510,22 +508,14 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 
 
-### Day 52: August 2024  - day 
+### Day xx: month 2024  - day 
 
 **Today's Progress**: 
 
 **Thoughts**:
 
 
-### Day 49:  August 2024  - day 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day 50:  August 2024  - day 
+### Day xx: month 2024  - day  
 
 **Today's Progress**: 
 
@@ -533,7 +523,7 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 
 
-### Day 51:  August 2024  - day 
+### Day xx: month 2024  - day 
 
 **Today's Progress**: 
 
@@ -541,7 +531,577 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 
 
-### Day 52: August 2024  - day 
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+### Day xx: month 2024  - day  
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+
+
+### Day xx: month 2024  - day 
 
 **Today's Progress**: 
 
