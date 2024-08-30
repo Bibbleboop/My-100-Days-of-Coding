@@ -432,7 +432,7 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 **Today's Progress**: Following Eat the Blocks tutorial to build decentralised prediction market on blockchain using ethereum, solidity and javascript
 
-**Thoughts**:
+**Thoughts**: npx create-react-next-app . - Had to restart this not inc typescript
 
 
 
