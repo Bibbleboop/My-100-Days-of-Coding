@@ -420,10 +420,23 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 **Today's Progress**: Minted NFT on Opensea and uploaded CID data from Pinata to NFT Storage for use in Stellar Challenge PreRequesites. 
 
+**Thoughts**: unable to complete the stellar sidequest to mint nft on stellar - No video available so I will continue at later date
+
+
+
+((started coursera M&A Specilaisation - will attempt to do that alongside the 100 days)) 
+
+
+
+### Day 45: 30th August 2024  - Friday  
+
+**Today's Progress**: Following Eat the Blocks tutorial to build decentralised prediction market on blockchain using ethereum, solidity and javascript
+
 **Thoughts**:
 
 
-### Day xx: month 2024  - day  
+
+### Day 46: month 2024  - day 
 
 **Today's Progress**: 
 
@@ -431,15 +444,7 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 
 
-### Day xx: month 2024  - day 
-
-**Today's Progress**: 
-
-**Thoughts**:
-
-
-
-### Day xx: month 2024  - day 
+### Day 47: month 2024  - day 
 
 **Today's Progress**: 
 
