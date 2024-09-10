@@ -379,8 +379,8 @@ anvil (This will start a local Ethereum testnet node.
 **Thoughts**:
 A lot of new terms here that I will need oo understand before continuing inc, websockets, .env files contents and purpose. (https://www.infura.io/blog/post/how-to-use-dotenv-to-enhance-basic-security-within-your-dapp)
 VSCode Foundry Test runner extension
-
-Having immense issues with tryng to run foundry and anvil from terminal in VSCode. It runs if i do it in bash but my brain is missing the bit to join the dots between that and vscode. I'm stuck even after asking perpelxity.ai several times. the current ELI5 instructions show several steps and end with running foundryup from bash - this is where  am confused as I want to workin my terminal in vscode  - I don't even know how to ask teh next question to understand what I don't understand.  
+ 
+Having immense issues with tryng to run foundry and anvil from terminal in VSCode. Update ..Check that VSCode Terminal is Bash not Poershell. When Clone Repo then fork it. 
 I am at 30mins ish on this vid and have spent hours trying to understand how to get anvil to work https://www.youtube.com/live/v7Y7F60YdFQ
 
 
