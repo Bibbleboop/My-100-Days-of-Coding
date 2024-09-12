@@ -436,9 +436,9 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 
 
-### Day 46: month 2024  - day 
+### Day 46: September1 12th 2024  - Thursday 
 
-**Today's Progress**: 
+**Today's Progress**: Attempting  Javascript ddesktop game. Preprquistits needed, Rust,  Microsoft Visual Studio C++ Build Tools, WebView2, MSVC toolchain as default.
 
 **Thoughts**:
 
