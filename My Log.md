@@ -438,7 +438,7 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 ### Day 46: September1 12th 2024  - Thursday 
 
-**Today's Progress**: Attempting  Javascript desktop game. Preprquistits needed, Rust,  Microsoft Visual Studio C++ Build Tools, WebView2, MSVC toolchain as default.
+**Today's Progress**: Attempting  Javascript desktop game. Preprquistits needed, Rust,  Microsoft Visual Studio C++ Build Tools, WebView2, MSVC toolchain as default. Tauri & Kaplay (Previosly Kaboom)
 
 **Thoughts**: Had to restart to iron out original set up issues. 
 
