@@ -438,15 +438,15 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 ### Day 46: September1 12th 2024  - Thursday 
 
-**Today's Progress**: Attempting  Javascript ddesktop game. Preprquistits needed, Rust,  Microsoft Visual Studio C++ Build Tools, WebView2, MSVC toolchain as default.
+**Today's Progress**: Attempting  Javascript desktop game. Preprquistits needed, Rust,  Microsoft Visual Studio C++ Build Tools, WebView2, MSVC toolchain as default.
 
-**Thoughts**:
+**Thoughts**: Had to restart to iron out original set up issues. 
 
 
 
-### Day 47: month 2024  - day 
+### Day 47: September 13th 2024  - Friday 
 
-**Today's Progress**: 
+**Today's Progress**: Back on track with desktop game after compiling to local host canvas. Next Step to import assets.  
 
 **Thoughts**:
 
