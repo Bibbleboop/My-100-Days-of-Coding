@@ -451,9 +451,10 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 **Thoughts**:
 
 
-### Day xx: month 2024  - day  
+### Day 49: September 14th 2024  - Saturday  
 
-**Today's Progress**: 
+**Today's Progress**: With inital canvas F12 for dev tools og localhost 1420. Sprites, sounds and other assets imoprted into public folder. assets loaded to main.js in src folder (sprites and sounds). Changing name of identifier in tauri.config.json changes fodler name in c:appdata/local (after canvas has refreshed). Can also change window to full screen in tauri.config.json. And logic written in main.js as EventListener to change screen size with F11. 
+
 
 **Thoughts**:
 
