@@ -337,17 +337,10 @@ SIDE QUEST 2 Mint an NFT on Stellar Blockchain
 
 **Today's Progress**: To Read up on Merge Dev Hackathon (July 22 **- Sept 9th) - did not complete
 
-**Thoughts**:
-
-
-
 
 ### Day 36: 22 July 2024  - Monday 
 
 **Today's Progress**: MERGE - Dev Hackathom - Reusable Creativity on WIX Studio DID NOT COMPLETE
-
-**Thoughts**:
-
 
 
 ### Day 37: 23 July 2024  - Tuesday 
@@ -460,9 +453,9 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 **Today's Progress**: Contiuing with JS Desktop Project - My Version of Kriby Game 
 
-**Thoughts**:
+**Thoughts**: ***** STARTED USING COPILOT WITH VSCODE *****
 
-### Day 52/53:  month 2024  - Tuesday/ Wednesday 
+### Day 52/53:  September 2024  - Tuesday/ Wednesday 
 
 **Today's Progress**: I was able to complete this at last  - will come bavk at later date to add notes for this week to keep a record as aide menoire
 
