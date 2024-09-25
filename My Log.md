@@ -1,4 +1,4 @@
- # 100 Days Of Code - My Log (Days with no progress will not be counted - hence 100 days is longer than 100 calendar days)
+# 100 Days Of Code - My Log (Days with no progress will not be counted - hence 100 days is longer than 100 calendar days)
  https://www.100daysofcode.com/
 
 ### Day 0: 13th June 2024
@@ -300,11 +300,11 @@ Stellar Quest - Sponsorship  - Sponsored Reserves use three operations - Begin, 
 
 **Thoughts**: Claimable Balances is alternative to opening trust lines to make non-native payments by splitting the payment. Create Claimable Balance Operation holds the payment from the sender Onchain. Then the Create Claimable Balance Operation is where the destination account sends/holds the claimable balance for the claimant to accept after conditions are satisfied. Up to 10 claimants/recipients can be set (and can include yourself), but the balance can only be claimed by the first person as long as the predicate conditions are satisfied.  Unconditional can be claimed at any time but Conditional will be time-based. Either Relative time or Absolute time  - e.g. x minutes to have passed but before a certain date. Claimable Balance Operation is where the recipient can use the Claimable Balance ID to claim and sign online to receive this balance, if any preconditional actions have been met
 
-Stellar Quest - Clawbacks - Clawbacks are possible on Stellar if they have a flag set up on the public ledger prior to transactions (not available retospectively) - This is called a clawback-enabled asset, and will burn (remove and destroy) the specified amount from a recipients balance. Required to meet securities regs etc and sueful in cases of fraud or error. Regulated assets (money market funds, bonds, equities) issuance is simplified with asset clawbacks on Stellar. Operations include: Issuing account set up to be clawback-enabled, Issue of the asset, Burn the asset (or portion of) after being Clawed back. 
+Stellar Quest - Clawbacks - Clawbacks are possible on Stellar if they have a flag set up on the public ledger prior to transactions (not available retrospectively) - This is called a clawback-enabled asset, and will burn (remove and destroy) the specified amount from a recipients balance. Required to meet securities regs etc and useful  cin cases of fraud or error. Regulated assets (money market funds, bonds, equities) issuance is simplified with asset clawbacks on Stellar. Operations include: Issuing account set up to be clawback-enabled, Issue of the asset, Burn the asset (or portion of) after being Clawed back. 
 Operations
- Set Options/ Set Flags  Authorise Clawback enabled (relates to all subsequent trustlines from the source account in trabsaction) 
+ Set Options/ Set Flags  Authorise Clawback enabled (relates to all subsequent trustlines from the source account in transaction) 
             / Set Flags  Authorisation Revocable (allows issuer to revoke authorisation by pulling all trustlines)
- Clawback / Specify Asset & Account Clawing back from receipient 
+ Clawback / Specify Asset & Account Clawing back from recipient 
 
  
 
@@ -344,7 +344,7 @@ SIDE QUEST 2 Mint an NFT on Stellar Blockchain
 
 ### Day 36: 22 July 2024  - Monday 
 
-**Today's Progress**: MERGE - Dev Hackathom - Reusable Creativity on WIX Studio
+**Today's Progress**: MERGE - Dev Hackathom - Reusable Creativity on WIX Studio DID NOT COMPLETE
 
 **Thoughts**:
 
@@ -374,13 +374,13 @@ anvil (This will start a local Ethereum testnet node.
 ### Day 39: 29 July 2024  - Monday 
 
 **Today's Progress**: Pickinup on Crypto trading bot. Using Uniswap v2 Contract Deployments factoryAddress on Ethereum Mainnet to create blockchain.json file and copying array from factoryAbi to allow us to connect to the contract.  bot.js (mainfile) Etheres library required for WebSocketProvider (and factory) to read values from dot.env file. The facroryAddress is pulled through from json file. Set up listener to show details of new liquidity pool. Timeout promise function added for ms delay. 
-* new WebSocketProvider(process.env.LOCAL_RPC_URL_WS) = local blockchain forked from main blockchain for testing so a) don't have to wait for real events from the blockchain  b) its better to fork incase there are bugs. Forked cooy (local copy) to create a new liquidity pool (for no cost as it mirrors the actual blockchain), using tools inc Foundry (framework for developing smart contracts) which has a utility called Anvil, a local blockchain to fork from. Create script file using Makefile, and use Infura.io to run anvil as follows.  
+* new WebSocketProvider(process.env.LOCAL_RPC_URL_WS) = local blockchain forked from main blockchain for testing so a) don't have to wait for real events from the blockchain  b) its better to fork in case there are bugs. Forked copy (local copy) to create a new liquidity pool (for no cost as it mirrors the actual blockchain), using tools inc Foundry (framework for developing smart contracts) which has a utility called Anvil, a local blockchain to fork from. Create script file using Makefile, and use Infura.io to run anvil as follows.  
 
 **Thoughts**:
-A lot of new terms here that I will need oo understand before continuing inc, websockets, .env files contents and purpose. (https://www.infura.io/blog/post/how-to-use-dotenv-to-enhance-basic-security-within-your-dapp)
+A lot of new terms here that I will need to understand before continuing inc, websockets, .env files contents and purpose. (https://www.infura.io/blog/post/how-to-use-dotenv-to-enhance-basic-security-within-your-dapp)
 VSCode Foundry Test runner extension
  
-Having immense issues with tryng to run foundry and anvil from terminal in VSCode. Update ..Check that VSCode Terminal is Bash not Poershell. When Clone Repo then fork it. 
+Having immense issues with trying to run foundry and anvil from terminal in VSCode. Update ..Check that VSCode Terminal is Bash not PowerShell. When Clone Repo then fork it. 
 I am at 30mins ish on this vid and have spent hours trying to understand how to get anvil to work https://www.youtube.com/live/v7Y7F60YdFQ
 
 
@@ -389,7 +389,7 @@ I am at 30mins ish on this vid and have spent hours trying to understand how to 
 
 **Today's Progress**: Using copilot and codespaces to overcome issues with laoding foundry and anvil
 
-**Thoughts**: Crypto Bot Respository is in a mess atm but was able to load Foundry using codespaces so it was a sucessful day - I will follow up with this tommorow and will hopefully make some progress (fingers crossed) This log is messy also but the comments are an aide memoire and I will summarise each section at end of 100 days when reflecting on what I have acheived and preparing my next steps. 
+**Thoughts**: Crypto Bot Repository is in a mess atm but was able to load Foundry using codespaces so it was a successful day - I will follow up with this tomorrow and will hopefully make some progress (fingers crossed) This log is messy also but the comments are an aide memoire and I will summarise each section at end of 100 days when reflecting on what I have achieved and preparing my next steps. 
 
 
 
@@ -404,33 +404,33 @@ I am at 30mins ish on this vid and have spent hours trying to understand how to 
 
 **Today's Progress**: To complete Stellar Side Quests I went back to NFT.Storage as per link in instructions and paid for storage but I think the link should have been directed to NFT.UP instead and I didn't need to pay. Error on NFT.UP when trying to add NFT image "Error: storing files: API Key is malformed or failed to parse."
 
-Looking at help files on NFT.Storage it is unclear if I should be uploading tokens - so I will have to open a ticket. I don;t know if or when I will receive a response so I'll move on for now
+Looking at help files on NFT.Storage it is unclear if I should be uploading tokens - so I will have to open a ticket. I don’t know if or when I will receive a response so I'll move on for now
 
 **Thoughts**:
 
 
 ### Day 43: 8 August 2024  - day 
 
-**Today's Progress**: Buy storage on NFTStorage to complete "Side Quest - Mint an NFT on Stellar - Publish an NFT on the Stellar blockchain "  ********** COMPLETE STELLAR PREQUESTS  - Will have to wait for next Stellar Smart Contract Challenge to start to take part when completed all SideQuests !!
+**Today's Progress**: Buy storage on NFTStorage to complete "Side Quest - Mint an NFT on Stellar - Publish an NFT on the Stellar blockchain "  ********** COMPLETE STELLAR PREQUESTS  - Will have to wait for next Stellar Smart Contract Challenge to start to take part when completed all Side Quests !!
 
 **Thoughts**:
 
 
 ### Day 44: 16 August 2024  - Friday 
 
-**Today's Progress**: Minted NFT on Opensea and uploaded CID data from Pinata to NFT Storage for use in Stellar Challenge PreRequesites. 
+**Today's Progress**: Minted NFT on Opensea and uploaded CID data from Pinata to NFT Storage for use in Stellar Challenge Prerequisites. 
 
-**Thoughts**: unable to complete the stellar sidequest to mint nft on stellar - No video available so I will continue at later date
+**Thoughts**: unable to complete the stellar side quest to mint nft on stellar - No video available so I will continue at later date
 
 
 
-((started coursera M&A Specilaisation - will attempt to do that alongside the 100 days)) 
+((started Coursera M&A Specialization - will attempt to do that alongside the 100 days)) 
 
 
 
 ### Day 45: 30th August 2024  - Friday  
 
-**Today's Progress**: Following Eat the Blocks tutorial to build decentralised prediction market on blockchain using ethereum, solidity and javascript
+**Today's Progress**: Following Eat the Blocks tutorial to build decentralised prediction market on blockchain using Ethereum, solidity and JavaScript
 
 **Thoughts**: npx create-react-next-app . - Had to restart this not inc typescript
 
@@ -438,7 +438,7 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 ### Day 46: September1 12th 2024  - Thursday 
 
-**Today's Progress**: Attempting  Javascript desktop game. Preprquistits needed, Rust,  Microsoft Visual Studio C++ Build Tools, WebView2, MSVC toolchain as default. Tauri & Kaplay (Previosly Kaboom)
+**Today's Progress**: Attempting  JavaScript desktop game. Prerequisites needed, Rust,  Microsoft Visual Studio C++ Build Tools, WebView2, MSVC toolchain as default. Tauri & Kaplay (Previously Kaboom)
 
 **Thoughts**: Had to restart to iron out original set up issues. 
 
@@ -453,26 +453,22 @@ Looking at help files on NFT.Storage it is unclear if I should be uploading toke
 
 ### Day 49: September 14th 2024  - Saturday  
 
-**Today's Progress**: With inital canvas F12 for dev tools og localhost 1420. Sprites, sounds and other assets imoprted into public folder. assets loaded to main.js in src folder (sprites and sounds). Changing name of identifier in tauri.config.json changes fodler name in c:appdata/local (after canvas has refreshed). Can also change window to full screen in tauri.config.json. And logic written in main.js as EventListener to change screen size with F11. 
+**Today's Progress**: With initial canvas F12 for dev tools of localhost 1420. Sprites, sounds and other assets imported into public folder. assets loaded to main.js in src folder (sprites and sounds). Changing name of identifier in tauri.config.json changes folder name in c:appdata/local (after canvas has refreshed). Can also change window to full screen in tauri.config.json. And logic written in main.js as Event Listener to change screen size with F11. 
+**Thoughts**: I am finding this frustrating at times but will persevere and get back on the bus/bike/saddle
 
+### Day 50/51: September 22nd 2024  - Saturday /Sunday
 
-**Thoughts**:
-
-
-
-### Day xx: month 2024  - day 
-
-**Today's Progress**: 
+**Today's Progress**: Contiuing with JS Desktop Project - My Version of Kriby Game 
 
 **Thoughts**:
 
+### Day 52/53:  month 2024  - Tuesday/ Wednesday 
 
+**Today's Progress**: I was able to complete this at last  - will come bavk at later date to add notes for this week to keep a record as aide menoire
 
-### Day xx: month 2024  - day 
+**Thoughts**:  
+**Link to work:** https://github.com/Bibbleboop/My-Version-Kriby-Game
 
-**Today's Progress**: 
-
-**Thoughts**:
 
 
 ### Day xx: month 2024  - day  
